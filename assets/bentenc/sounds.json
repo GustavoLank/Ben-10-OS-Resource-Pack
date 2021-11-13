@@ -1,0 +1,99 @@
+{
+  "prototype_omnitrix_wait": {
+    "sounds": [
+      "bentenc:prototype/wait"
+    ],
+    "subtitle": "bentenc.subtitle.prototype_wait"
+  },
+  "prototype_omnitrix_fail": {
+    "sounds": [
+      "bentenc:prototype/fail"
+    ],
+    "subtitle": "bentenc.subtitle.prototype_fail"
+  },
+  "prototype_omnitrix_switch": {
+    "sounds": [
+      "bentenc:prototype/switch1",
+      "bentenc:prototype/switch2",
+      "bentenc:prototype/switch3",
+      "bentenc:prototype/switch4",
+      "bentenc:prototype/switch5",
+      "bentenc:prototype/switch6"
+    ],
+    "subtitle": "bentenc.subtitle.prototype_switch"
+  },
+  "prototype_omnitrix_recharge": {
+    "sounds": [
+      "bentenc:prototype/recharge"
+    ],
+    "subtitle": "bentenc.subtitle.prototype_recharge"
+  },
+  "prototype_omnitrix_activate": {
+    "sounds": [
+      "bentenc:prototype/recharge"
+    ],
+    "subtitle": "bentenc.subtitle.prototype_activate"
+  },
+  "prototype_omnitrix_timeout": {
+    "sounds": [
+      "bentenc:prototype/timeout"
+    ],
+    "subtitle": "bentenc.subtitle.prototype_timeout"
+  },
+  "prototype_omnitrix_transform": {
+    "sounds": [
+      "bentenc:prototype/transform"
+    ],
+    "subtitle": "bentenc.subtitle.prototype_transform"
+  },
+  "os_theme_song": {
+    "sounds": [
+      "bentenc:os_theme"
+    ]
+  },
+
+  "recalibrated_omnitrix_transform": {
+    "sounds": [
+      "bentenc:recalibrated/transform"
+    ],
+    "subtitle": "bentenc.subtitle.recalibrated_transform"
+  },
+  "recalibrated_omnitrix_timeout": {
+    "sounds": [
+      "bentenc:recalibrated/timeout"
+    ],
+    "subtitle": "bentenc.subtitle.recalibrated_timeout"
+  },
+  "recalibrated_omnitrix_activate": {
+    "sounds": [
+      "bentenc:recalibrated/activate"
+    ],
+    "subtitle": "bentenc.subtitle.recalibrated_activate"
+  },
+  "recalibrated_omnitrix_switch": {
+    "sounds": [
+      "bentenc:recalibrated/switch"
+    ],
+    "subtitle": "bentenc.subtitle.recalibrated_switch"
+  },
+  "af_opening": {
+    "sounds": [
+      "bentenc:af_opening"
+    ]
+  },
+
+
+
+
+  
+  "amogus_kill": {
+    "sounds": [
+      "bentenc:amogus_kill"
+    ]
+  },
+  "amogus_start": {
+    "sounds": [
+      "bentenc:amogus_start"
+    ]
+  }
+}

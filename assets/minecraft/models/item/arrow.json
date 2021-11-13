@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/arrow"
+    },
+	"overrides": [
+    { "predicate": { "custom_model_data": 2000}, "model": "ov/prototool/arrow"}
+	]
+}

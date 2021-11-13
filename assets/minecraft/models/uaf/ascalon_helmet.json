@@ -1,0 +1,68 @@
+{
+	"credit": "by GustavoLank8653 | Made with Blockbench | (You are not allowed to use this model)",
+	"textures": {
+		"0": "uaf/ascalon_helmet",
+		"particle": "uaf/ascalon_helmet"
+	},
+	"elements": [
+		{
+			"name": "ascalon_helmet",
+			"from": [3.25, 22.5, 3.25],
+			"to": [12.75, 32, 12.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 7.5]},
+			"faces": {
+				"north": {"uv": [4, 4, 8, 8], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"south": {"uv": [12, 4, 16, 8], "texture": "#0"},
+				"west": {"uv": [8, 4, 12, 8], "texture": "#0"},
+				"up": {"uv": [4, 0, 8, 4], "texture": "#0"},
+				"down": {"uv": [8, 0, 12, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "ascalon_helmet",
+			"from": [3, 27.25, 2.5],
+			"to": [13, 32, 3.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 7]},
+			"faces": {
+				"north": {"uv": [0.5, 8.5, 5, 11], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, -0.5, -6.5],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, -0.5, -6.5],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 84, 0],
+			"translation": [2, -4.25, 2.5],
+			"scale": [0.39, 0.39, 0.39]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 84, 0],
+			"translation": [2, -4.25, 2.5],
+			"scale": [0.39, 0.39, 0.39]
+		},
+		"ground": {
+			"translation": [0, -15.25, 0]
+		},
+		"gui": {
+			"rotation": [16, 154, 0],
+			"translation": [0.25, -18.25, 0]
+		},
+		"head": {
+			"translation": [0, -30, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [0, -19.5, 0]
+		}
+	}
+}

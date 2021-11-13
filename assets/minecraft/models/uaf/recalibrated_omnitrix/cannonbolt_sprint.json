@@ -1,0 +1,83 @@
+{
+    "credit": "by GustavoLank8653 | Made with Blockbench",
+    "textures": {
+        "main": "alien_force/cannonbolt_sprint"
+    },
+    "elements": [
+        {
+            "from": [ 0.5, 0, -2 ],
+            "to":   [ 15.5, 20, 18 ],
+            "rotation": { "angle": 0, "axis": "y", "origin": [8, 10, 8] },
+            "faces": {
+                "north": { "uv": [ 2, 2, 3.375, 4 ], "rotation":180, "texture": "#main" },
+                "east":  { "uv": [ 3.375, 2, 5.375, 4 ], "texture": "#main" },
+                "south": { "uv": [ 2, 2, 3.375, 4 ], "texture": "#main" },
+                "west":  { "uv": [ 0, 2, 2, 4 ], "texture": "#main" },
+                "up":    { "uv": [ 2, 2, 3.375, 4 ], "texture": "#main" },
+                "down":  { "uv": [ 2, 2, 3.375, 4 ], "texture": "#main" }
+            }
+        },
+        {
+            "from": [ 0.5, 0, -2 ],
+            "to":   [ 15.5, 20, 18 ],
+            "rotation": { "angle": -22.5, "axis": "x", "origin": [8, 10, 8] },
+            "faces": {
+                "north": { "uv": [ 10, 2, 11.375, 4 ], "rotation":180, "texture": "#main" },
+                "east":  { "uv": [ 11.375, 2, 13.375, 4 ], "texture": "#main" },
+                "south": { "uv": [ 10, 2, 11.375, 4 ], "texture": "#main" },
+                "west":  { "uv": [ 8, 2, 10, 4 ], "texture": "#main" },
+                "up":    { "uv": [ 10, 2, 11.375, 4 ], "texture": "#main" },
+                "down":  { "uv": [ 10, 2, 11.375, 4 ], "texture": "#main" }
+            }
+        },
+        {
+            "from": [ 0.5, 0, -2 ],
+            "to":   [ 15.5, 20, 18 ],
+            "rotation": { "angle": -45, "axis": "x", "origin": [8, 10, 8] },
+            "faces": {
+                "north": { "uv": [ 2, 10, 3.375, 12 ], "rotation":180, "texture": "#main" },
+                "east":  { "uv": [ 3.375, 10, 5.375, 12 ], "texture": "#main" },
+                "south": { "uv": [ 2, 10, 3.375, 12 ], "texture": "#main" },
+                "west":  { "uv": [ 0, 10, 2, 12 ], "texture": "#main" },
+                "up":    { "uv": [ 2, 10, 3.375, 12 ], "texture": "#main" },
+                "down":  { "uv": [ 2, 10, 3.375, 12 ], "texture": "#main" }
+            }
+        },
+        {
+            "from": [ 0.5, 0, -2 ],
+            "to":   [ 15.5, 20, 18 ],
+            "rotation": { "angle": 22.5, "axis": "x", "origin": [8, 10, 8] },
+            "faces": {
+                "north": { "uv": [ 10, 10, 11.375, 12 ], "rotation":180, "texture": "#main" },
+                "east":  { "uv": [ 11.375, 10, 13.375, 12 ], "rotation":90, "texture": "#main" },
+                "south": { "uv": [ 10, 10, 11.375, 12 ], "texture": "#main" },
+                "west":  { "uv": [ 8, 10, 10, 12 ], "rotation":270, "texture": "#main" },
+                "up":    { "uv": [ 10, 10, 11.375, 12 ], "texture": "#main" },
+                "down":  { "uv": [ 10, 10, 11.375, 12 ], "texture": "#main" }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson_righthand": {
+            "scale": [ 0, 0, 0 ]
+        },
+        "thirdperson_lefthand": {
+            "scale": [ 0, 0, 0 ]
+        },
+        "firstperson_righthand": {
+            "scale": [ 0, 0, 0 ]
+        },
+        "firstperson_lefthand": {
+            "scale": [ 0, 0, 0 ]
+        },
+        "gui": {
+            "rotation": [ 24, 133, 0 ],
+            "scale": [ 0.46, 0.46, 0.46 ]
+        },
+        "head": {
+            "translation": [ 0, -22.75, 0 ],
+            "scale": [ 3.12, 2.8, 2.8 ]
+        }
+    },
+    "__comment": "Model animated using Fizzy's model animator - http://fizzy81.github.io/animated-models/"
+}

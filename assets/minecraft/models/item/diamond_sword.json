@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_sword"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 80000}, "model": "os/diamondhead_sword"},
+        { "predicate": { "custom_model_data": 80001}, "model": "uaf/diamondhead_sword"},
+        { "predicate": { "custom_model_data": 80002}, "model": "uaf/ascalon"},
+        { "predicate": { "custom_model_data": 80003}, "model": "uaf/ascalon_activated"},
+        { "predicate": { "custom_model_data": 80004}, "model": "os/fusions/xlrhead_blade"}
+	]
+}

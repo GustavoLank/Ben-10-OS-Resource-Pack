@@ -1,0 +1,29 @@
+{
+	"credit": "by GustavoLank8653 | Made with Blockbench | (You are not allowed to use this model)",
+	"textures": {
+		"0": "classic/spitter_spit",
+		"particle": "classic/spitter_spit"
+	},
+	"elements": [
+		{
+			"from": [0, 0.0125, 7.9875],
+			"to": [16, 16.0125, 8.0125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8.0125, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 3, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"translation": [0, 0, 1],
+			"scale": [2, 2, 2]
+		}
+	}
+}
