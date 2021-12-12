@@ -199,6 +199,10 @@
         { "predicate": { "custom_model_data": 80201}, "model": "uaf/goop_walk"},
         { "predicate": { "custom_model_data": 80202}, "model": "uaf/goop_flight"},
         { "predicate": { "custom_model_data": 80203}, "model": "uaf/goop_gliding"},
+        { "predicate": { "custom_model_data": 80204}, "model": "uaf/echo_echo_idle"},
+        { "predicate": { "custom_model_data": 80205}, "model": "uaf/echo_echo_walk"},
+        { "predicate": { "custom_model_data": 80206}, "model": "uaf/echo_echo_scream"},
+        { "predicate": { "custom_model_data": 80207}, "model": "uaf/echo_echo_force_field"},
 
 
         { "predicate": { "custom_model_data": 280000}, "model": "os/yenaldooshi_idle" },

@@ -108,6 +108,8 @@
         { "predicate": { "custom_model_data": 180018}, "model": "os/spitter_spit_east"},
         { "predicate": { "custom_model_data": 180019}, "model": "os/spitter_spit_west"},
         { "predicate": { "custom_model_data": 180020}, "model": "os/10k/stinkfly_tail"},
-        { "predicate": { "custom_model_data": 180021}, "model": "uaf/swampfire_trap"}
+        { "predicate": { "custom_model_data": 180021}, "model": "uaf/swampfire_trap"},
+        { "predicate": { "custom_model_data": 180022}, "model": "uaf/echo_echo_idle_clone"},
+        { "predicate": { "custom_model_data": 180023}, "model": "uaf/echo_echo_walk_clone"}
 	]
 }

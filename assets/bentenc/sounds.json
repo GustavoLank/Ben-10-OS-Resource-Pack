@@ -82,6 +82,12 @@
     ]
   },
 
+  "echo_echo_scream": {
+    "sounds": [
+      "bentenc:echo_echo_scream"
+    ]
+  },
+
 
 
 

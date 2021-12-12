@@ -134,6 +134,9 @@
   "bentenc.abilities.supersonic_speed": "Supersonic Speed",
   "bentenc.abilities.sleeping_spores": "Sleeping Spores",
   "bentenc.abilities.dash": "Dash",
+  "bentenc.abilities.sonic_scream": "Sonic Scream",
+  "bentenc.abilities.wall_of_sound": "Wall of Sound",
+  "bentenc.abilities.echo_chamber": "Echo Chamber",
 
   "bentenc.omnitrix.recharging": "Recharging...",
   "bentenc.omnitrix.scanning": "Scanning...",
