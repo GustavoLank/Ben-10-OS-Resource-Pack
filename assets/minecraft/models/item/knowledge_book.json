@@ -203,6 +203,11 @@
         { "predicate": { "custom_model_data": 80205}, "model": "uaf/echo_echo_walk"},
         { "predicate": { "custom_model_data": 80206}, "model": "uaf/echo_echo_scream"},
         { "predicate": { "custom_model_data": 80207}, "model": "uaf/echo_echo_force_field"},
+        { "predicate": { "custom_model_data": 80208}, "model": "uaf/brainstorm_idle"},
+        { "predicate": { "custom_model_data": 80209}, "model": "uaf/brainstorm_walk"},
+        { "predicate": { "custom_model_data": 80210}, "model": "uaf/brainstorm_idle_opened"},
+        { "predicate": { "custom_model_data": 80211}, "model": "uaf/brainstorm_walk_opened"},
+
 
 
         { "predicate": { "custom_model_data": 280000}, "model": "os/yenaldooshi_idle" },
