@@ -1,7 +1,10 @@
 {
   "prototype_omnitrix_wait": {
     "sounds": [
-      "bentenc:prototype/wait"
+      {
+        "name": "bentenc:prototype/wait",
+        "stream": true
+      }
     ],
     "subtitle": "bentenc.subtitle.prototype_wait"
   },
@@ -48,7 +51,10 @@
   },
   "os_theme_song": {
     "sounds": [
-      "bentenc:os_theme"
+      {
+        "name": "bentenc:os_theme",
+        "stream": true
+      }
     ]
   },
 
@@ -78,13 +84,19 @@
   },
   "af_opening": {
     "sounds": [
-      "bentenc:af_opening"
+      {
+        "name": "bentenc:af_opening",
+        "stream": true
+      }
     ]
   },
 
   "echo_echo_scream": {
     "sounds": [
-      "bentenc:echo_echo_scream"
+      {
+        "name": "bentenc:echo_echo_scream",
+        "stream": true
+      }
     ]
   },
 
