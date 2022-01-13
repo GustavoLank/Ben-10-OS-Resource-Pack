@@ -207,6 +207,10 @@
         { "predicate": { "custom_model_data": 80209}, "model": "uaf/brainstorm_walk"},
         { "predicate": { "custom_model_data": 80210}, "model": "uaf/brainstorm_idle_opened"},
         { "predicate": { "custom_model_data": 80211}, "model": "uaf/brainstorm_walk_opened"},
+        { "predicate": { "custom_model_data": 80212}, "model": "uaf/spidermonkey_idle"},
+        { "predicate": { "custom_model_data": 80213}, "model": "uaf/spidermonkey_walk"},
+        { "predicate": { "custom_model_data": 80214}, "model": "uaf/spidermonkey_idle_climb"},
+        { "predicate": { "custom_model_data": 80215}, "model": "uaf/spidermonkey_walk_climb"},
 
 
 
